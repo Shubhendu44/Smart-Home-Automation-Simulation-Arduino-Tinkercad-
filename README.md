@@ -13,21 +13,21 @@ A simulated home automation system built using Arduino (Embedded C++) and Tinker
 
 ---
 
-## ⭐ Features
+##  Features
 
-### 🔐 Password Login  
+### Password Login  
 Commands are locked until the user logs in:
 LOGIN 1234
 
-### 💡 Control Appliances (A, B, C, D)
+### Control Appliances (A, B, C, D)
 Example:
 ON A
 
-### 📊 Status Command  
+### Status Command  
 Shows ON/OFF status of all devices:
 STATUS
 
-### ⏱ Scheduling System  
+### Scheduling System  
 Schedule future ON/OFF actions:
 SCHEDULE C ON AFTER 2
 SCHEDULE D ON AFTER 4
